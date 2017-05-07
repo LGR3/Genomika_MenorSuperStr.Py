@@ -1,5 +1,5 @@
 #########################################################################
-#             Selecao Estagio Genomika Diagnosticos 2017                #
+#                    Estagio Genomika Diagnosticos 2017                 #
 #                                                                       #
 # Lucas Glasner Regis    #     lgr3@cin.ufpe.br      #     9 9872 2412  #
 #                                                                       #
