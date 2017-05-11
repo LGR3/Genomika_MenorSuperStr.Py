@@ -43,4 +43,4 @@ if __name__ == "__main__":
     reads_input = open("input.txt").read().splitlines()     # tal funcao da uma lista/array das linhas sem o "\n"
 
     print menorsuperstr(reads_input)                        # acabei de lembrar que deveria exportar "output.txt"
-                                                            # vou commitar assim e mudo depois [LEMBRETE!!!]
+                                                            # vou commitar assim e mudo depois
